@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cendorie.github.io/sitemap.html.gz
+Sitemap: https://cendorie.github.io/app/sitemap.html.gz
+Sitemap: https://cendorie.github.io/assets/sitemap.html.gz
+Sitemap: https://cendorie.github.io/css/sitemap.html.gz
+Sitemap: https://cendorie.github.io/includes/sitemap.html.gz
+Sitemap: https://cendorie.github.io/item/sitemap.html.gz
+Sitemap: https://cendorie.github.io/src/sitemap.html.gz
